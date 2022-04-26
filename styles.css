@@ -110,7 +110,13 @@ hr {
 
 .showcase h1,
 .showcase p {
-    margin-bottom: 10px;
+    margin-bottom: 0;
+    color: #2f3640;
+}
+
+.showcase h3 {
+    color: antiquewhite;
+    padding: 5px 0 28px;
 }
 
 .info-cards {
@@ -219,6 +225,14 @@ hr {
     text-align: center;
     padding-bottom: 20px;
 }
+
+/****************************************************INDEX2*****************************************************/
+
+.index1 {
+    width: 95%;
+    margin: auto;
+}
+
 
 /*Responsivenness*/
 
